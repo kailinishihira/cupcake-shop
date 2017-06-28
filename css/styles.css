@@ -19,6 +19,12 @@ p {
 
 ul.cupcake {
   font-size: 45px;
+  text-align: center;
+  list-style-type: none;
+}
+
+img {
+  width: 30%;
 }
 
 .certifications {
@@ -32,4 +38,9 @@ ul.cupcake {
   font-size: 70px;
   font-family: 'Bellefair', serif;
   color: #e524d8;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
 }
