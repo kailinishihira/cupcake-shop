@@ -1,0 +1,35 @@
+body {
+  background-color: #fcc7f1;
+  font-family: 'Arimo', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Bellefair', serif;
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 33px;
+}
+
+ul.cupcake {
+  font-size: 45px;
+}
+
+.certifications {
+  font-style: italic;
+  font-size: 24px;
+  color: #547232;
+}
+
+.best {
+  font-style: bold;
+  font-size: 70px;
+  font-family: 'Bellefair', serif;
+  color: #e524d8;
+}
